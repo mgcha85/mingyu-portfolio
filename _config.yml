@@ -1,17 +1,39 @@
-# Site settings
-title: Mingyu's Portfolio
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "mingyu-portfolio" # the subpath of your site, e.g. /blog/
-url: "https://mgcha85.github.io" # the base hostname & protocol for your site
+# site settings
+title: "Mingyu Cha"
+subtitle: "Research Engineer in Generative AI and NLP"
+email: mgcha85@gmail.com
+description: "Research Engineer specializing in Generative AI, Machine Learning, and Data Science."
+baseurl: "mingyu-portfolio" # the subpath of your site, e.g., /blog (leave empty if publishing to root)
+url: "https://mgcha85.github.io" # replace with your actual GitHub Pages URL
+author: "Mingyu Cha"
+street_address: "#204, 144-1, Gangseo-ro, Gangseo-gu"
+city: Seoul
+state:
+zip_code:
+country: "Republic of Korea"
+phone: "+82(10) 6375-6954"
 
-twitter_username:
-github_username: mgcha85
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Build settings
+# social settings (key must match name of Font Awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if the value is empty
+# You need to restart Jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/mgcha85 # replace with your GitHub username
+  LinkedIn: https://www.linkedin.com/in/mingyu-cha-717b62122/ # replace with your LinkedIn profile
+  Email: mailto:mgcha85@gmail.com
+
+# build settings
 markdown: kramdown
 
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name/
+sass:
+  style: compressed
+
+exclude:
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
