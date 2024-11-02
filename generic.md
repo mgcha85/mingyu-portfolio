@@ -123,13 +123,3 @@ description: "A showcase of all my projects and educational experiences in rever
 - **Description**: Developed embedded programs for media devices using C language.
 - **Outcome**: Optimized device performance and maintained software versions for regular updates.
 
-## Publications
-- Cha, M., Zheng, H., Talukder, A., Barham, C., Hu, H. (2021), *A two-stream convolutional neural network for microRNA transcription start site feature integration and identification*, Nature Scientific Reports.
-- Guhathakurta, S., Adams, L., Sivakumar, A., Cha, M., Fiadeiro, M., Hu, H., Kim, Y. (2021), *Precise epigenomic editing by a newly developed modular epigenetic toolkit*, Taylor & Francis.
-- Talukder, A., Wang, S., Cha, M., Li, X., Hu, H. (2019), *Computational annotation of miRNA transcription start sites*, Briefings in Bioinformatics, Volume 22, Issue 1.
-- Barham, C., Cha, M., Li, X., Hu, H. (2019), *Application of Deep Learning Models to microRNA Transcription Start Site Identification*, ICBCB 2019 conference.
-- Jung, W., Cha, M. (2018), *New Weapon Requirements Recommendation Using M&S and Big Data Analytics*, IISE Annual Conference.
-- Mokhtari, S., Wu, L., Cha, M. (2016), *Comparison of Supervised Classification Techniques for Vision-Based Pavement Crack Detection*, Transportation Research Board, Washington, D.C.
-- Cha, M., Kim, Y. (2015), *A low probability of intercept (LPI) radar signal analysis using Independent component analysis (ICA)*, Korea Electromagnetic Engineering Society Conference.
-- Cha, M., Kim, Y. (2015), *WVD, STFT, wavelet, QMF, and CSA algorithm comparison and analysis to detect an LPI radar signal*, Korea Electromagnetic Engineering Society Conference.
-
