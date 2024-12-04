@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Projects
 description: "A showcase of all my projects and educational experiences in reverse chronological order"
---- -->
+---
 
 # Projects & Experience
 
