@@ -89,7 +89,7 @@ description: "역순으로 정리된 프로젝트 및 교육 경험 소개"
 - **기간**: 2024-05
 
     <div style="text-align: center;">
-        <h4>finAI</h4>
+        <h4>Risk-Sensing</h4>
         <img src="https://assets.techrepublic.com/uploads/2023/07/tr7723-Hero-AI-summaries-770x578.jpg" alt="map-reduce" style="width:50%; height:auto;">
     </div><br>
 <br>
