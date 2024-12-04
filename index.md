@@ -62,6 +62,6 @@ show_tile: false
 - Cha, M., Kim, Y. (2015), *A low probability of intercept (LPI) radar signal analysis using Independent component analysis (ICA)*, Korea Electromagnetic Engineering Society Conference.
 - Cha, M., Kim, Y. (2015), *WVD, STFT, wavelet, QMF, and CSA algorithm comparison and analysis to detect an LPI radar signal*, Korea Electromagnetic Engineering Society Conference.
 
-자세한 내용은 [이력서](/resume)에서 확인하실 수 있습니다.
+자세한 내용은 [이력서](Mingyu-Cha-Resume.docx)에서 확인하실 수 있습니다.
 
 궁금한 점이 있으시면 [mgcha85@gmail.com](mailto:mgcha85@gmail.com)로 연락하시거나 제 [GitHub](https://github.com/yourusername)을 방문해주세요.
