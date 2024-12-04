@@ -35,7 +35,7 @@ description: "역순으로 정리된 프로젝트 및 교육 경험 소개"
     </div>
 
     #### Meilisearch vs. Elasticsearch
-    
+
     | **비교 항목** | **Meilisearch** | **Elasticsearch** |
     |--------------|------------------|------------------|
     | **사용 편의성** | 설치와 구성이 간단하며 기본 설정으로 바로 사용 가능 | 초기 설정 및 구성 과정이 상대적으로 복잡 |
@@ -74,6 +74,11 @@ description: "역순으로 정리된 프로젝트 및 교육 경험 소개"
 - **성과**: 동영상 내 정보를 신속하게 검색 가능하게 하여 업무 생산성을 극대화했으며, 지식 재활용 및 활용도를 크게 개선했습니다.
 - **기간**: 2024-07
 
+    <div style="text-align: center;">
+        <h4>KVI</h4>
+        <img src="images/STT.png" alt="big-agi" style="width:50%; height:auto;">
+    </div><br>
+
 <br>
 
 
@@ -83,6 +88,10 @@ description: "역순으로 정리된 프로젝트 및 교육 경험 소개"
 - **성과**: 뉴스 검색 및 요약 시간을 대폭 단축시켰으며, 전 세계 이벤트에 대한 인사이트 제공으로 고객의 리스크 관리 역량을 강화했습니다. 
 - **기간**: 2024-05
 
+    <div style="text-align: center;">
+        <h4>finAI</h4>
+        <img src="https://assets.techrepublic.com/uploads/2023/07/tr7723-Hero-AI-summaries-770x578.jpg" alt="map-reduce" style="width:50%; height:auto;">
+    </div><br>
 <br>
 
 #### 6. **금융 분석을 위한 생성 AI**
