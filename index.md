@@ -52,7 +52,7 @@ show_tile: false
 - **회장**, 한국외대 패러글라이딩 동아리, 2010년 – 2011년  
   신규 회원 모집 및 훈련 주도, 동아리 장비 관리.
 
-### 출판물
+### Publications
 - Cha, M., Zheng, H., Talukder, A., Barham, C., Hu, H. (2021), *A two-stream convolutional neural network for microRNA transcription start site feature integration and identification*, Nature Scientific Reports.
 - Guhathakurta, S., Adams, L., Sivakumar, A., Cha, M., Fiadeiro, M., Hu, H., Kim, Y. (2021), *Precise epigenomic editing by a newly developed modular epigenetic toolkit*, Taylor & Francis.
 - Talukder, A., Wang, S., Cha, M., Li, X., Hu, H. (2019), *Computational annotation of miRNA transcription start sites*, Briefings in Bioinformatics, Volume 22, Issue 1.
