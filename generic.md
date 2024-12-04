@@ -35,6 +35,7 @@ description: "역순으로 정리된 프로젝트 및 교육 경험 소개"
     </div>
 
     #### Meilisearch vs. Elasticsearch
+    
     | **비교 항목** | **Meilisearch** | **Elasticsearch** |
     |--------------|------------------|------------------|
     | **사용 편의성** | 설치와 구성이 간단하며 기본 설정으로 바로 사용 가능 | 초기 설정 및 구성 과정이 상대적으로 복잡 |
@@ -114,7 +115,7 @@ description: "역순으로 정리된 프로젝트 및 교육 경험 소개"
 
 
 ### Timeline
-<img src="images/portfolio-time-table.png" alt="timeline" style="width:50%; height:auto;">
+<img src="images/portfolio-time-table.png" alt="timeline" style="width:100%; height:auto;">
 
 ---
 ### **LG 디스플레이 (데이터 사이언티스트)**  
