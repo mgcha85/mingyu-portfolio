@@ -64,4 +64,4 @@ show_tile: false
 
 자세한 내용은 [이력서](Mingyu-Cha-Resume.docx)에서 확인하실 수 있습니다.
 
-궁금한 점이 있으시면 [mgcha85@gmail.com](mailto:mgcha85@gmail.com)로 연락하시거나 제 [GitHub](https://github.com/yourusername)을 방문해주세요.
+궁금한 점이 있으시면 [mgcha85@gmail.com](mailto:mgcha85@gmail.com)로 연락하시거나 제 [GitHub](https://github.com/mgcha85)을 방문해주세요.
